@@ -1,0 +1,86 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.8	//
+Student	Student.java	/^    public Student(String studentID, String surname, String middleName, String firstName,$/;"	kind:m	line:21	language:Java	class:Student	access:public	signature:(String studentID, String surname, String middleName, String firstName, String aptNumber, String streetNumber, String streetName, String city, String province, String postalCode, double cslLoanAmount, double oslLoanAmount)
+Student	Student.java	/^public class Student$/;"	kind:c	line:11	language:Java
+Student.Student	Student.java	/^    public Student(String studentID, String surname, String middleName, String firstName,$/;"	kind:m	line:21	language:Java	class:Student	access:public	signature:(String studentID, String surname, String middleName, String firstName, String aptNumber, String streetNumber, String streetName, String city, String province, String postalCode, double cslLoanAmount, double oslLoanAmount)
+Student.aptNumber	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.city	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+Student.cslLoanAmount	Student.java	/^    private double cslLoanAmount, oslLoanAmount;$/;"	kind:f	line:16	language:Java	class:Student	file:	access:private
+Student.firstName	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.frmNum	Student.java	/^    private DecimalFormat frmNum  = new DecimalFormat("$#0.00");$/;"	kind:f	line:17	language:Java	class:Student	file:	access:private
+Student.getAptNumber	Student.java	/^    public String getAptNumber()$/;"	kind:m	line:130	language:Java	class:Student	access:public	signature:()
+Student.getCity	Student.java	/^    public String getCity()$/;"	kind:m	line:148	language:Java	class:Student	access:public	signature:()
+Student.getCslLoanAmount	Student.java	/^    public double getCslLoanAmount()$/;"	kind:m	line:166	language:Java	class:Student	access:public	signature:()
+Student.getFirstName	Student.java	/^    public String getFirstName()$/;"	kind:m	line:124	language:Java	class:Student	access:public	signature:()
+Student.getMiddleName	Student.java	/^    public String getMiddleName()$/;"	kind:m	line:118	language:Java	class:Student	access:public	signature:()
+Student.getOslLoanAmount	Student.java	/^    public double getOslLoanAmount()$/;"	kind:m	line:172	language:Java	class:Student	access:public	signature:()
+Student.getPostalCode	Student.java	/^    public String getPostalCode()$/;"	kind:m	line:160	language:Java	class:Student	access:public	signature:()
+Student.getProvince	Student.java	/^    public String getProvince()$/;"	kind:m	line:154	language:Java	class:Student	access:public	signature:()
+Student.getStreetName	Student.java	/^    public String getStreetName()$/;"	kind:m	line:142	language:Java	class:Student	access:public	signature:()
+Student.getStreetNumber	Student.java	/^    public String getStreetNumber()$/;"	kind:m	line:136	language:Java	class:Student	access:public	signature:()
+Student.getStudentID	Student.java	/^    public String getStudentID()$/;"	kind:m	line:106	language:Java	class:Student	access:public	signature:()
+Student.getSurname	Student.java	/^    public String getSurname()$/;"	kind:m	line:112	language:Java	class:Student	access:public	signature:()
+Student.middleName	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.oslLoanAmount	Student.java	/^    private double cslLoanAmount, oslLoanAmount;$/;"	kind:f	line:16	language:Java	class:Student	file:	access:private
+Student.postalCode	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+Student.province	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+Student.setAptNumber	Student.java	/^    public void setAptNumber(String aptNumber)$/;"	kind:m	line:58	language:Java	class:Student	access:public	signature:(String aptNumber)
+Student.setCity	Student.java	/^    public void setCity(String city)$/;"	kind:m	line:76	language:Java	class:Student	access:public	signature:(String city)
+Student.setCslLoanAmount	Student.java	/^    public void setCslLoanAmount(double cslLoanAmount)$/;"	kind:m	line:94	language:Java	class:Student	access:public	signature:(double cslLoanAmount)
+Student.setFirstName	Student.java	/^    public void setFirstName(String firstName)$/;"	kind:m	line:52	language:Java	class:Student	access:public	signature:(String firstName)
+Student.setMiddleName	Student.java	/^    public void setMiddleName(String middleName)$/;"	kind:m	line:46	language:Java	class:Student	access:public	signature:(String middleName)
+Student.setOslLoanAmount	Student.java	/^    public void setOslLoanAmount(double oslLoanAmount)$/;"	kind:m	line:100	language:Java	class:Student	access:public	signature:(double oslLoanAmount)
+Student.setPostalCode	Student.java	/^    public void setPostalCode(String postalCode)$/;"	kind:m	line:88	language:Java	class:Student	access:public	signature:(String postalCode)
+Student.setProvince	Student.java	/^    public void setProvince(String province)$/;"	kind:m	line:82	language:Java	class:Student	access:public	signature:(String province)
+Student.setStreetName	Student.java	/^    public void setStreetName(String streetName)$/;"	kind:m	line:70	language:Java	class:Student	access:public	signature:(String streetName)
+Student.setStreetNumber	Student.java	/^    public void setStreetNumber(String streetNumber)$/;"	kind:m	line:64	language:Java	class:Student	access:public	signature:(String streetNumber)
+Student.setStudentID	Student.java	/^    public void setStudentID(String studentID)$/;"	kind:m	line:177	language:Java	class:Student	access:public	signature:(String studentID)
+Student.setSurname	Student.java	/^    public void setSurname(String surname)$/;"	kind:m	line:40	language:Java	class:Student	access:public	signature:(String surname)
+Student.streetName	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+Student.streetNumber	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.studentID	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.surname	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+Student.toString	Student.java	/^    public String toString()$/;"	kind:m	line:191	language:Java	class:Student	access:public	signature:()
+aptNumber	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+city	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+cslLoanAmount	Student.java	/^    private double cslLoanAmount, oslLoanAmount;$/;"	kind:f	line:16	language:Java	class:Student	file:	access:private
+firstName	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+frmNum	Student.java	/^    private DecimalFormat frmNum  = new DecimalFormat("$#0.00");$/;"	kind:f	line:17	language:Java	class:Student	file:	access:private
+getAptNumber	Student.java	/^    public String getAptNumber()$/;"	kind:m	line:130	language:Java	class:Student	access:public	signature:()
+getCity	Student.java	/^    public String getCity()$/;"	kind:m	line:148	language:Java	class:Student	access:public	signature:()
+getCslLoanAmount	Student.java	/^    public double getCslLoanAmount()$/;"	kind:m	line:166	language:Java	class:Student	access:public	signature:()
+getFirstName	Student.java	/^    public String getFirstName()$/;"	kind:m	line:124	language:Java	class:Student	access:public	signature:()
+getMiddleName	Student.java	/^    public String getMiddleName()$/;"	kind:m	line:118	language:Java	class:Student	access:public	signature:()
+getOslLoanAmount	Student.java	/^    public double getOslLoanAmount()$/;"	kind:m	line:172	language:Java	class:Student	access:public	signature:()
+getPostalCode	Student.java	/^    public String getPostalCode()$/;"	kind:m	line:160	language:Java	class:Student	access:public	signature:()
+getProvince	Student.java	/^    public String getProvince()$/;"	kind:m	line:154	language:Java	class:Student	access:public	signature:()
+getStreetName	Student.java	/^    public String getStreetName()$/;"	kind:m	line:142	language:Java	class:Student	access:public	signature:()
+getStreetNumber	Student.java	/^    public String getStreetNumber()$/;"	kind:m	line:136	language:Java	class:Student	access:public	signature:()
+getStudentID	Student.java	/^    public String getStudentID()$/;"	kind:m	line:106	language:Java	class:Student	access:public	signature:()
+getSurname	Student.java	/^    public String getSurname()$/;"	kind:m	line:112	language:Java	class:Student	access:public	signature:()
+middleName	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+oslLoanAmount	Student.java	/^    private double cslLoanAmount, oslLoanAmount;$/;"	kind:f	line:16	language:Java	class:Student	file:	access:private
+person	Student.java	/^package person;$/;"	kind:p	line:7	language:Java
+postalCode	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+province	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+setAptNumber	Student.java	/^    public void setAptNumber(String aptNumber)$/;"	kind:m	line:58	language:Java	class:Student	access:public	signature:(String aptNumber)
+setCity	Student.java	/^    public void setCity(String city)$/;"	kind:m	line:76	language:Java	class:Student	access:public	signature:(String city)
+setCslLoanAmount	Student.java	/^    public void setCslLoanAmount(double cslLoanAmount)$/;"	kind:m	line:94	language:Java	class:Student	access:public	signature:(double cslLoanAmount)
+setFirstName	Student.java	/^    public void setFirstName(String firstName)$/;"	kind:m	line:52	language:Java	class:Student	access:public	signature:(String firstName)
+setMiddleName	Student.java	/^    public void setMiddleName(String middleName)$/;"	kind:m	line:46	language:Java	class:Student	access:public	signature:(String middleName)
+setOslLoanAmount	Student.java	/^    public void setOslLoanAmount(double oslLoanAmount)$/;"	kind:m	line:100	language:Java	class:Student	access:public	signature:(double oslLoanAmount)
+setPostalCode	Student.java	/^    public void setPostalCode(String postalCode)$/;"	kind:m	line:88	language:Java	class:Student	access:public	signature:(String postalCode)
+setProvince	Student.java	/^    public void setProvince(String province)$/;"	kind:m	line:82	language:Java	class:Student	access:public	signature:(String province)
+setStreetName	Student.java	/^    public void setStreetName(String streetName)$/;"	kind:m	line:70	language:Java	class:Student	access:public	signature:(String streetName)
+setStreetNumber	Student.java	/^    public void setStreetNumber(String streetNumber)$/;"	kind:m	line:64	language:Java	class:Student	access:public	signature:(String streetNumber)
+setStudentID	Student.java	/^    public void setStudentID(String studentID)$/;"	kind:m	line:177	language:Java	class:Student	access:public	signature:(String studentID)
+setSurname	Student.java	/^    public void setSurname(String surname)$/;"	kind:m	line:40	language:Java	class:Student	access:public	signature:(String surname)
+streetName	Student.java	/^            streetName, city, province, postalCode;$/;"	kind:f	line:15	language:Java	class:Student	file:	access:private
+streetNumber	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+studentID	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+surname	Student.java	/^    private String studentID, surname, middleName, firstName, aptNumber, streetNumber,$/;"	kind:f	line:14	language:Java	class:Student	file:	access:private
+toString	Student.java	/^    public String toString()$/;"	kind:m	line:191	language:Java	class:Student	access:public	signature:()
