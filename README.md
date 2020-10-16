@@ -54,6 +54,11 @@ Step by step calculations:
 Total monthly payment is the sum of the two individual loan payment amounts.
 
 Therefore the monthly payments are $49.21 for the CSL and $28.48 for the OSL for a combined monthly payment of $77.69 on an amortization period of 60 months.
-    
-    
-    
+
+## Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+
+Please make sure to update the tests as appropriate.
+
+## License
+[MIT](https://choosealicense.com/licenses/mit/)
